@@ -35,12 +35,12 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://monolithit.mintlify.app/introduction"
     },
     {
       "name": "Website",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "icon": "fa-globe",
+      "url": "https://slyce-io.co.uk"
     }
   ],
   "navigation": [
