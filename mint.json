@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Log in/Sign up",
+    "url": "https://slyce-io-prod.eu.auth0.com/login"
   },
   "tabs": [
     {
