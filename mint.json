@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Slyce IO 2",
+  "name": "Slyce IO",
   "logo": {
     "dark": "https://slyce-io-webui-dev.azurewebsites.net/images/slyce-io-logo-white-blue.png",
     "light": "https://slyce-io-webui-dev.azurewebsites.net/images/slyce-io-logo-white-blue.png"
