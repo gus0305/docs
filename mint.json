@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Slyce IO",
   "logo": {
-    "dark": "https://slyce-io-webui-prod.azurewebsites.net/images/slyce-io-logo-white-blue.png",
-    "light": "https://slyce-io-webui-prod.azurewebsites.net/images/slyce-io-logo.png"
+    "dark": "https://slyce-io.co.uk/wp-content/uploads/2024/03/slyce-io-logo-white-blue.png",
+    "light": "https://slyce-io.co.uk/wp-content/uploads/2024/03/slyce-io-logo-dark-blue-e1709307010444.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
