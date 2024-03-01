@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Log in / Sign up",
-    "url": "https://slyce-io-prod.eu.auth0.com/login"
+    "url": "https://slyce-io-webui-prod.azurewebsites.net/account/login"
   },
   "tabs": [
     {
