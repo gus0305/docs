@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Log in/Sign up",
+    "name": "Log in / Sign up",
     "url": "https://slyce-io-prod.eu.auth0.com/login"
   },
   "tabs": [
