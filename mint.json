@@ -18,8 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@slyce-io.co.uk",
-      "color": "#0076c5"
+      "url": "mailto:support@slyce-io.co.uk"
     }
   ],
   "topbarCtaButton": {
